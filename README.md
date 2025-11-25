@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syauqiShiddiq
 - 👀 I’m interested in Frontend Developer
-- 🌱 I’m currently learning at Indonesian Computer University
+- 🌱 I’m an Information System Graduate
 - 📫 How to reach me email : syauqi.shiddiq@outlook.com
 - 😄 Pronouns: He/Him
 
