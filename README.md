@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syauqiShiddiq
-- 👀 I’m interested in Frontend Developer
+- 👀 I’m interested in Web Development
 - 🌱 I’m an Information System Graduate
 - 📫 How to reach me email : syauqi.shiddiq@outlook.com
 - 😄 Pronouns: He/Him
